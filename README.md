@@ -1,8 +1,17 @@
 - 👋 Hi, I’m @thanhtrungcpag
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java - ReactJS
+
+-- My Project
+Spring Boot:
+  - QuanLySach - https://github.com/trungcpag/quanlysach
+  - SpringBootTesting - https://github.com/trungcpag/SpringbootTesting
+  - Spring-API -https://github.com/trungcpag/Spring-API
+  - 
+ReactJS 
+  - React-Redux - https://github.com/trungcpag/ReactJS-Redux
+ 
+
 
 <!---
 thanhtrungcpag/thanhtrungcpag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
