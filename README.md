@@ -6,7 +6,6 @@
 Spring Boot:
   - QuanLySach - https://github.com/trungcpag/quanlysach
   - GraphQL - https://github.com/trungcpag/GraphQL-SpringBoot
-  - SpringBootTesting - https://github.com/trungcpag/SpringbootTesting
   - Spring-API -https://github.com/trungcpag/Spring-API
   - Liquibase - https://github.com/trungcpag/LiquiBaseSpringBoot
   
